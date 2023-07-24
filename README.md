@@ -4,7 +4,7 @@ Este proyecto se realizó durante el bootcamp de "Technolochicas PRO Summer 2023
 
 Ten la libertad de revisar el código para poner en práctica tus habilidades de programación e intentarlo tú mismo.
 
-##Índice
+## Índice
 
 * [1. Intro](https://github.com/AreliRomero29/googles_clone#1intro)
 * [2.Demo](https://github.com/AreliRomero29/googles_clone#2demo)
