@@ -9,7 +9,7 @@ Ten la libertad de revisar el código para poner en práctica tus habilidades de
 * [1. Intro](url)
 * [2.Demo](url)
 * [3. ¿Qué construirás?](url)
-* [4. Objetivos de Aprendizaje] (url)
+* [4. Objetivos de Aprendizaje](url)
 * [5.Requisitos](url)
 
 
@@ -23,6 +23,7 @@ La idea es inspirarte con esta demostración de proyecto.
 
 **¡Quizá no te quede idéntico o quizá te quede mucho mejor que este demo🤩**, utiliza tu destreza y aprendizaje para que demuestres que tu futuro es ser un(a) programador(a) web.👩🏻💻👦🏻
 
+![imagen]("./../imagenes/Google-captura.png)
 
 ## 3.¿Qué construirás?
 Este proyecto está enfocado en construir la interfaz estática de Google.
