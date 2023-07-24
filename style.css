@@ -1,0 +1,184 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    height: 7vh;
+}
+
+main{
+    height: 77vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+footer{
+  height: auto;
+  background-color: #f2f2f2;
+}
+
+header nav{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0px 4px 0px 32px;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+li{
+    padding: 0px 15px 0px 15px;
+}
+
+#nav-right-section{
+    padding: 12px 5px;
+
+}
+
+#nav-left-section{
+    padding: 12px 5px;
+}
+
+#footer1{
+    align-items: center;
+    padding: 15px 50px;
+    border-bottom: 1px solid #dadce0;
+}
+
+#footer-listas{
+    display: flex;
+    align-items: center;
+    padding: 17px 20px;
+    justify-content: space-evenly;
+}
+
+.footer-group1{
+    margin-right: 380px;
+}
+
+#logo{
+    margin-bottom: 20px;
+}
+
+#buscador2{
+    /*configuración de barra de buscador apariencia*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px 8px 5px 14px;
+    margin-bottom: 20px;
+    min-height: 44px;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+}
+
+#buscador2:hover{
+    /*configuración de barra de buscador cuando se selccciona con el mouse*/
+    box-shadow: 0px 1px 6px rgba(32,33,36,.28);
+}
+
+.cajatexto{
+    /*tañamo caja de texto*/
+    width: 443px;
+    height: 32px;
+    border: none;
+}
+
+#buscador2 svg{
+    /*configuración de svg´s en barra de buscador*/
+    padding: 4px 7px;
+    cursor: pointer;
+    width: 24px;
+}
+
+button{
+    /*configuración botones*/
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0px 16px;
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+}
+
+button:hover{
+    /*configuración de barra de botones cuando se selccciona con el mouse*/
+    box-shadow: 0 1px 1px rgba(0,0,0,.1);
+    background-color: #f8f9fa;
+    border: 1px solid #dadce0;
+    color: #202124;
+}
+
+footer ul li{
+    /*tamaño y color de texto en footer*/
+    color: #70757a;
+    font-size: 15px;
+}
+
+p{
+    /*tamaño y color de texto en parrafos*/
+    color: #70757a;
+    font-size: 15px;
+}
+
+header nav ul li{
+    /*color de texto en barra de navegación*/
+    color: rgba(0,0,0,.87);
+    cursor: pointer; /*cambiar de forma el punto cuando selecciona un elemento*/
+}
+
+.imagen-perfil{
+    /*redondeo de imagen de perfil*/
+    border-radius: 50%;
+}
+
+header a:link {
+    /*color de link en barras de navegación*/
+    text-decoration: none;
+    color:rgba(0,0,0,.87);
+}
+
+header a:hover{
+    /*subrayar cuando se selecciona en barra de navegación*/
+    text-decoration: underline;
+}
+
+header a:visited{
+    /*color de texto cuando el link es visitado*/
+    color:rgba(0,0,0,.87);
+}
+
+footer a:link{
+    /*configuración de apariencia de los links en el footer*/
+    text-decoration: none;
+    color: #70757a;
+    font-size: 15px;
+}
+
+footer a:hover{
+    /*configuración de hover en el pie de página*/
+    text-decoration: underline;
+}
+
+footer a:visited{
+    color: #70757a;
+}
+
+
+
+
